@@ -1,0 +1,5 @@
+npx expo-cli install expo-location
+
+adb shell pm reset-permissions (to reset permissions on android stimulator);
+
+react-devtools (to connect to react dev tools)
